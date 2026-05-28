@@ -1,5 +1,4 @@
-<img src="https://br.pinterest.com/pin/1008665647804311202/" width="500px">
-hello, world!
+![foto](images/lain.webp)
 
 # sobre mim
 - meu nome é wolfegan willian. eu atualmente moro no brasil, estou aprendendo programação FULL STACK (C#,HTML,CSS e JS)em um curso do SENAI.
