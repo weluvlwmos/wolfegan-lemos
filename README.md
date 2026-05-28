@@ -1,4 +1,4 @@
-![foto](https://github.com/weluvlwmos/wolfegan-lemos/blob/main/lain.png)
+
 
 # sobre mim
 - meu nome é wolfegan willian. eu atualmente moro no brasil, estou aprendendo programação FULL STACK (C#,HTML,CSS e JS)em um curso do SENAI.
@@ -42,6 +42,6 @@ hello, world
 - Studying Programming at SENAI
 - Studying Administration at SENAI
 
-
+![foto](https://github.com/weluvlwmos/wolfegan-lemos/blob/main/lain.png)
 
 
