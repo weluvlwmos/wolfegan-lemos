@@ -8,9 +8,9 @@
 ate o final de 2026
 
 # passa tempo
--passear com meu cachorro 
--jogar com meu amigos 
--andar de skate.
+- passear com meu cachorro 
+- jogar com meu amigos 
+- andar de skate.
 
 # atualmente
 - terminando o ultimo ano do ensino medio
